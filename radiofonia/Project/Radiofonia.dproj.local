@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/02 19:13:08.000.496,=C:\Users\Eduardo\Documents\Embarcadero\Studio\Projects\AppletModule1.pas</Transaction>
+    <Transaction>2021/06/02 19:16:20.000.274,=C:\Users\Eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/07 14:03:14.000.032,=C:\Users\Eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/20 15:41:01.939,=C:\Users\Eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/20 15:48:41.631,D:\Github\projects\radiofonia\Units\Main.dfm=C:\Users\Eduardo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/10/20 15:48:41.631,D:\Github\projects\radiofonia\Units\Main.pas=C:\Users\Eduardo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/20 15:49:03.455,D:\Github\projects\radiofonia\Project\Radiofonia.dproj=C:\Users\Eduardo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/10/20 15:58:32.937,D:\Github\projects\radiofonia\Units\Index.dfm=D:\Github\projects\radiofonia\Units\Main.dfm</Transaction>
+    <Transaction>2021/10/20 15:58:32.937,D:\Github\projects\radiofonia\Units\Index.pas=D:\Github\projects\radiofonia\Units\Main.pas</Transaction>
+    <Transaction>2021/10/20 15:59:47.863,D:\Github\projects\radiofonia\Units\Main.dfm=D:\Github\projects\radiofonia\Units\Index.dfm</Transaction>
+    <Transaction>2021/10/20 15:59:47.863,D:\Github\projects\radiofonia\Units\Main.pas=D:\Github\projects\radiofonia\Units\Index.pas</Transaction>
+  </Transactions>
+</BorlandProject>
